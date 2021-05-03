@@ -1,3 +1,3 @@
 # Traffic-Simulator-2.0
-### Matthew Rooke
+### Chan Pyae AUng
 A GUI based simulation of traffic.
